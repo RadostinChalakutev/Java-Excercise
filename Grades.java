@@ -9,7 +9,7 @@ public class Grades {
     }
     public static void scanTheGrade(double grade){
 
-        if(grade<3.00){
+        if(grade<3){
             System.out.println("Fail");
         }else if(grade>=3.00&&grade<=3.49){
             System.out.println("Poor");
