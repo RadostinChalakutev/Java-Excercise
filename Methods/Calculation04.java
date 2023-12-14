@@ -2,7 +2,7 @@ package Methods;
 
 import java.util.Scanner;
 
-public class Calculation {
+public class Calculation04 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         String action=scanner.nextLine();
