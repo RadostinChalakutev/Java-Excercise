@@ -1,4 +1,4 @@
-package ObjectAndClasses;
+package ObjectAndClasses.Lab;
 
 
 import java.util.Random;
