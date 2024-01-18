@@ -1,9 +1,6 @@
 package ObjectAndClasses.excercise;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class P03OpinionPoolP {
 
@@ -45,6 +42,7 @@ public class P03OpinionPoolP {
                 names.add(pool);
             }
         }
+
         for (Pool pool:names){
             System.out.println(pool.getName()+" - "+pool.getAge());
         }

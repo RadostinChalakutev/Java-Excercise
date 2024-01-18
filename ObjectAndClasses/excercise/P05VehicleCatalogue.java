@@ -20,6 +20,7 @@ public class P05VehicleCatalogue {
             this.Horsepower = Horsepower;
 
         }
+
         public String getType() {
             return this.Type;
         }
@@ -56,8 +57,8 @@ public class P05VehicleCatalogue {
         public String toString() {
             String typeVeh = Type.equals("car") ? "Car" : "Truck";
             return "Type: " + typeVeh + "\n" +
-                    "Model: " +  Model + "\n" +
-                    "Color: " + Color+ "\n" +
+                    "Model: " + Model + "\n" +
+                    "Color: " + Color + "\n" +
                     "Horsepower: " + Horsepower;
         }
     }
@@ -83,44 +84,44 @@ public class P05VehicleCatalogue {
 
             input = scanner.nextLine();
         }
-        String model=scanner.nextLine();
+        String model = scanner.nextLine();
 
 
         while (!model.equals("Close the Catalogue")) {
-            for (Vehicle vehicle:vehiclesList) {
+            for (Vehicle vehicle : vehiclesList) {
                 if (vehicle.getModel().equals(model))
-                System.out.println(vehicle);
+                    System.out.println(vehicle);
             }
-           model=scanner.nextLine();
+            model = scanner.nextLine();
         }
-        double sumCar=0;
-        double sumTruck=0;
-        int countCar=0;
-        int countTruck=0;
+        double sumCar = 0;
+        double sumTruck = 0;
+        int countCar = 0;
+        int countTruck = 0;
 
-        for (Vehicle vehicle:vehiclesList) {
-            if (vehicle.getType().equals("car")){
-                sumCar+=vehicle.getHorsepower();
+        for (Vehicle vehicle : vehiclesList) {
+            if (vehicle.getType().equals("car")) {
+                sumCar += vehicle.getHorsepower();
                 countCar++;
 
-            }else if (vehicle.getType().equals("truck")){
-                sumTruck+=vehicle.getHorsepower();
+            } else if (vehicle.getType().equals("truck")) {
+                sumTruck += vehicle.getHorsepower();
                 countTruck++;
 
             }
         }
-        double averageCar=sumCar/countCar;
-        double averageTruck=sumTruck/countTruck;
+        double averageCar = sumCar / countCar;
+        double averageTruck = sumTruck / countTruck;
 
-        if (countCar==0){
-            averageCar=0;
+        if (countCar == 0) {
+            averageCar = 0;
         }
-        if (countTruck==0){
-            averageTruck=0;
+        if (countTruck == 0) {
+            averageTruck = 0;
         }
-        System.out.printf("Cars have average horsepower of: %.2f.",averageCar);
+        System.out.printf("Cars have average horsepower of: %.2f.", averageCar);
         System.out.println();
-        System.out.printf("Trucks have average horsepower of: %.2f.",averageTruck);
+        System.out.printf("Trucks have average horsepower of: %.2f.", averageTruck);
 
     }
 }

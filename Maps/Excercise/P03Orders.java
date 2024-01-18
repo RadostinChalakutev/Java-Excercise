@@ -7,20 +7,34 @@ import java.util.Scanner;
 public class P03Orders {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        LinkedHashMap<String, Double> products = new LinkedHashMap<>();
-        String product = scanner.nextLine();
-        while (!product.equals("buy")) {
-            String[] token = product.split(" ");
-            String name = token[0];
-            double price = Double.parseDouble(token[1]);
-            double quantity = Double.parseDouble(token[2]);
-            double total = price * quantity;
-            products.put(name, total);
+        String data = scanner.nextLine();
 
-        product=scanner.nextLine();
+
+        LinkedHashMap<String, Integer> productQuantity = new LinkedHashMap<>();
+        LinkedHashMap<String,Double>productPrice=new LinkedHashMap<>();
+
+        while (!data.equals("buy")) {
+            String product = data.split(" ")[0];
+            double price = Double.parseDouble(data.split(" ")[1]);
+            int quantity = Integer.parseInt(data.split(" ")[2]);
+
+            if (!productQuantity.containsKey(product)){
+                productQuantity.put(product,quantity); //product with its quantity
+            }else{
+              int currentQuantity=productQuantity.get(product);
+              productQuantity.put(product,quantity+currentQuantity);
+            }
+            productPrice.put(product,price);
+            data = scanner.nextLine();
         }
-        for (Map.Entry<String,Double>entry: products.entrySet()){
-            System.out.printf("%s -> %.2f",entry.getKey(),entry.getValue());
+
+        for (Map.Entry<String, Integer> entry : productQuantity.entrySet()) {
+            String productName=entry.getKey();
+            double finalSum=productQuantity.get(productName)*productPrice.get(productName);
+            System.out.printf("%s -> %.2f%n",productName,finalSum);
         }
+
     }
 }
+
+
