@@ -18,6 +18,7 @@ public class P02RepeatString {
             }
         }
        String endResult=result.toString();
+
         System.out.println(endResult);
 
     }
