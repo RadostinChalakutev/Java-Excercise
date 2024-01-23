@@ -1,5 +1,6 @@
 package TextProcessing.Lab;
 
+import java.util.ArrayDeque;
 import java.util.Scanner;
 
 public class P04TextFilter {
@@ -19,5 +20,6 @@ public class P04TextFilter {
             result+="*";
         }
         return result;
+
     }
 }
