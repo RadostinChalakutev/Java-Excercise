@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19615b55-06cf-47fa-b97f-ee79285d60ac" name="Changes" comment="Completed">
+      <change beforePath="$PROJECT_DIR$/TextProcessing/Excercise/P02CharacterMultiplyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessing/Excercise/P02CharacterMultiplyer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Editor Groups" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RadostinC&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c3e927c9-3b43-4b32-a57d-31f07d2d5197" />
+        <option name="url" value="https://github.com/RadostinC/Java-Excercise.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2YgXYxqQIBIBAVxT8M1EDBB8k1s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AdvertisementMessage01$Message.executor": "Run",
+    "Application.BigFactorial03.executor": "Run",
+    "Application.MultiplyEvenByOdd10.executor": "Run",
+    "Application.MultiplyEvensByOdds.executor": "Run",
+    "Application.P01CountCharInString.executor": "Run",
+    "Application.P01CountRealNumber.executor": "Run",
+    "Application.P01ReversedString.executor": "Run",
+    "Application.P01ValidUsername.executor": "Run",
+    "Application.P02AMinerTask.executor": "Run",
+    "Application.P02Article.executor": "Run",
+    "Application.P02CharacterMultiplyer.executor": "Debug",
+    "Application.P02OddOccurrence.executor": "Run",
+    "Application.P02RepeatString.executor": "Run",
+    "Application.P02WordSynonyms.executor": "Run",
+    "Application.P03OpinionPoolP.executor": "Run",
+    "Application.P03Orders.executor": "Run",
+    "Application.P03Substring.executor": "Run",
+    "Application.P04SoftUniParking.executor": "Run",
+    "Application.P04Students.executor": "Run",
+    "Application.P04TextFilter.executor": "Run",
+    "Application.P04WordsFilter.executor": "Run",
+    "Application.P05Courses.executor": "Debug",
+    "Application.P05DigitsLettersAndOthers.executor": "Run",
+    "Application.P05VehicleCatalogue.executor": "Run",
+    "Application.P06OrderByAge.executor": "Run",
+    "Application.P06StudentAcademy.executor": "Run",
+    "Application.P07LegendaryFarming.executor": "Run",
+    "Application.P08CompanyUsers.executor": "Run",
+    "Application.P1AdvertisementMessage$Message.executor": "Run",
+    "Application.RandomizeWords.executor": "Run",
+    "Application.Songs04.executor": "Run",
+    "Application.Students05.executor": "Run",
+    "Application.SumBigNumbers.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SoftUni/Java-Excercise/Maps/Excercise",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ObjectAndClasses.excercise" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Java-Excercise\Maps\Excercise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Java-Excercise\Maps\Excercise" />
+      <recent name="D:\SoftUni\Java-Excercise\Arrays" />
+      <recent name="D:\SoftUni\Java-Excercise" />
+      <recent name="D:\SoftUni\Java-Excercise\Methods" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ObjectAndClasses.Lab" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AdvertisementMessage01$Message" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectAndClasses.excercise.AdvertisementMessage01$Message" />
+      <module name="Java-Excercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectAndClasses.excercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplyEvenByOdd10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MultiplyEvenByOdd10" />
+      <module name="Java-Excercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplyEvensByOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MultiplyEvensByOdds" />
+      <module name="Java-Excercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1AdvertisementMessage$Message" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectAndClasses.excercise.P1AdvertisementMessage$Message" />
+      <module name="Java-Excercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectAndClasses.excercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdvertisementMessage01$Message" />
+        <item itemvalue="Application.P1AdvertisementMessage$Message" />
+        <item itemvalue="Application.MultiplyEvenByOdd10" />
+        <item itemvalue="Application.MultiplyEvensByOdds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-8336523bb0d9-b81783ad" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19615b55-06cf-47fa-b97f-ee79285d60ac" name="Changes" comment="" />
+      <created>1700948247628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700948247628</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Excercise">
+      <option name="closed" value="true" />
+      <created>1700948303779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700948303779</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Excercise">
+      <option name="closed" value="true" />
+      <created>1701033297245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701033297245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="In progress">
+      <option name="closed" value="true" />
+      <created>1701456036989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701456036989</updated>
+    </task>
+    <task id="LOCAL-00004" summary="In progress">
+      <option name="closed" value="true" />
+      <created>1701456064334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701456064334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="In progress">
+      <option name="closed" value="true" />
+      <created>1701456585228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701456585228</updated>
+    </task>
+    <task id="LOCAL-00006" summary="In progress">
+      <option name="closed" value="true" />
+      <created>1701456977480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701456977480</updated>
+    </task>
+    <task id="LOCAL-00007" summary="In progress">
+      <option name="closed" value="true" />
+      <created>1701457121952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701457121952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1701457361696</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701457361696</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1701514953350</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701514953350</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1701519173867</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701519173867</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1701520073547</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701520073547</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1702587819565</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702587819565</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1703186146040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703186146040</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1703689826014</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703689826014</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1703941501684</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703941501684</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1703973600162</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703973600162</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1704138007332</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704138007332</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1704141908951</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704141908951</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1704498403703</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704498403703</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1704499766499</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704499766499</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1704749980958</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704749980958</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1704752289065</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704752289065</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1705101349259</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705101349259</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1705442105081</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1705442105082</updated>
+    </task>
+    <task id="LOCAL-00025" summary="In Progress">
+      <option name="closed" value="true" />
+      <created>1705443328141</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1705443328141</updated>
+    </task>
+    <task id="LOCAL-00026" summary="In progress 1.1">
+      <option name="closed" value="true" />
+      <created>1705443350724</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1705443350724</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1705616024132</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1705616024132</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1705616076741</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1705616076742</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1705616723769</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1705616723769</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1705617208879</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1705617208879</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Completed">
+      <option name="closed" value="true" />
+      <created>1706038568903</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1706038568903</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Excercise" />
+    <MESSAGE value="In progress" />
+    <MESSAGE value="In progress 1.1" />
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/ListManipulationBasic.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/RemoveNegativeAndReverse.java</url>
+          <line>9</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/Train01.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/Train01.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectAndClasses/Lab/Songs04.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Maps/Excercise/P02AMinerTask.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Maps/Excercise/P04SoftUniParking.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Maps/Excercise/P05Courses.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/Lab/P02RepeatString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/Excercise/P01ValidUsername.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/Excercise/P02CharacterMultiplyer.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ObjectAndClasses/excercise/P04Students.java</url>
+          <line>29</line>
+          <properties class="ObjectAndClasses.excercise.P04Students" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Excercise$P02AMinerTask.ic" NAME="P02AMinerTask Coverage Results" MODIFIED="1704749789471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Maps.Excercise.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_Excercise$ListManipulationBasic.ic" NAME="ListManipulationBasic Coverage Results" MODIFIED="1701032637306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
