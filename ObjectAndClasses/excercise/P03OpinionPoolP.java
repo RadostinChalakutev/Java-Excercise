@@ -31,9 +31,9 @@ public class P03OpinionPoolP {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
-        List<Pool> names = new ArrayList<>();
+        ArrayList<Pool> names = new ArrayList<Pool>();
         for (int i = 0; i < n; i++) {
-            String input = scanner.nextLine();
+            java.lang.String input = scanner.nextLine();
             String name = input.split(" ")[0];
             int age = Integer.parseInt(input.split(" ")[1]);
             Pool pool = new Pool(name, String.valueOf(age));
@@ -43,8 +43,6 @@ public class P03OpinionPoolP {
             }
         }
 
-        for (Pool pool:names){
-            System.out.println(pool.getName()+" - "+pool.getAge());
-        }
+        for (Pool pool:names) System.out.println(pool.getName() + " - " + pool.getAge());
     }
 }
