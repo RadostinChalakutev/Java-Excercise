@@ -1,4 +1,4 @@
-package Methods;
+package P04Methods;
 
 import java.util.Scanner;
 

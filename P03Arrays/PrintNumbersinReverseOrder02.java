@@ -1,4 +1,4 @@
-package Arrays;
+package P03Arrays;
 
 import java.util.Scanner;
 
